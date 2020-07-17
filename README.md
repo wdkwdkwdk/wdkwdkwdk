@@ -2,9 +2,9 @@
 
 I'm wdkwdkwdk
 
-- 🍞 Founder of [面包多](Mianbaoduo.com)
+- 🍞 Founder of [面包多](https://mianbaoduo.com)
 - ✒️ Use php, Python and JS
-- 🏠 Write at ：[DK's Blog](greatdk.com)
+- 🏠 Write at [DK's Blog](https://greatdk.com)
 - 🍜 I'm hungry now
 
 
