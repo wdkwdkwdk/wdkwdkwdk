@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm wdkwdkwdk
+
+- 🍞 Founder of [面包多](Mianbaoduo.com)
+- ✒️ Use php, Python and JS
+- 🏠 Write at ：[DK's Blog](greatdk.com)
+- 🍜 I'm hungry now
+
+
 <!--
 **wdkwdkwdk/wdkwdkwdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
