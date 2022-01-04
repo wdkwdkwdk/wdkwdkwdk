@@ -8,7 +8,6 @@ I'm wdkwdkwdk
 - 🍜 I'm hungry now
 
 
-@OSSDAO-ORG•AIRDROP-0xf68Bf330E1d1C73E9A469a294bDeD697197d0755
 <!--
 **wdkwdkwdk/wdkwdkwdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
