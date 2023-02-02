@@ -2,8 +2,8 @@
 
 I'm wdkwdkwdk
 
-- 🍞 Founder of [面包多](https://mianbaoduo.com)
-- ✒️ Use php, Python and JS
+- 🍞 Founder of [面包多](https://mbd.pub) and 6pen(https://6pen.art)
+- ✒️ Use php, Python and SwiftUI
 - 🏠 Write at [DK's Blog](https://greatdk.com)
 - 🍜 I'm hungry now
 
